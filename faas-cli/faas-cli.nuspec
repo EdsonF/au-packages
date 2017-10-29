@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>faas-cli</id>
+    <version>0.4.20</version>
+    <packageSourceUrl>https://github.com/pkeuter/chocolatey-packages</packageSourceUrl>
+    <owners>Peter Keuter</owners>
+    <title>faas-cli</title>
+    <authors>Alex Ellis</authors>
+    <projectUrl>https://www.openfaas.com/</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/pkeuter/chocolatey-packages/master/icons/openfaas.png?raw=true</iconUrl>
+    <copyright>Copyright (c) 2016-2017 Alex Ellis</copyright>
+    <licenseUrl>https://github.com/openfaas/faas-cli/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/openfaas/faas-cli</projectSourceUrl>
+    <docsUrl>https://github.com/openfaas/faas-cli/blob/master/README.md</docsUrl>
+     <bugTrackerUrl>https://github.com/openfaas/faas-cli/issues</bugTrackerUrl>
+    <tags>faas openfaas serverless kubernetes docker swarm functions function openfaas faas-netes</tags>
+    <summary>OpenFaaS - Functions as a Service. This is a CLI for use with OpenFaaS</summary>
+    <description>OpenFaaS (Functions as a Service) is a framework for building serverless functions with Docker which has first class support for metrics. Any process can be packaged as a function enabling you to consume a range of web events without repetitive boiler-plate coding. This is a CLI for use with OpenFaaS.</description>
+    <releaseNotes>https://github.com/openfaas/faas-cli/releases/tag/0.4.20</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
