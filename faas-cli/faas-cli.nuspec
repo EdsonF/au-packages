@@ -3,12 +3,12 @@
   <metadata>
     <id>faas-cli</id>
     <version>0.4.20</version>
-    <packageSourceUrl>https://github.com/pkeuter/chocolatey-packages</packageSourceUrl>
+    <packageSourceUrl>https://github.com/pkeuter/au-packages</packageSourceUrl>
     <owners>Peter Keuter</owners>
     <title>faas-cli</title>
     <authors>Alex Ellis</authors>
     <projectUrl>https://www.openfaas.com/</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/pkeuter/chocolatey-packages/master/icons/openfaas.png?raw=true</iconUrl>
+    <iconUrl>https://github.com/pkeuter/au-packages/blob/master/faas-cli/icon.png?raw=true</iconUrl>
     <copyright>Copyright (c) 2016-2017 Alex Ellis</copyright>
     <licenseUrl>https://github.com/openfaas/faas-cli/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
