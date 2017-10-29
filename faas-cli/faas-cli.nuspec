@@ -5,7 +5,7 @@
     <version>0.4.20</version>
     <packageSourceUrl>https://github.com/pkeuter/au-packages</packageSourceUrl>
     <owners>Peter Keuter</owners>
-    <title>faas-cli</title>
+    <title>Official CLI for the OpenFaaS Serverless framework </title>
     <authors>Alex Ellis</authors>
     <projectUrl>https://www.openfaas.com/</projectUrl>
     <iconUrl>https://github.com/pkeuter/au-packages/blob/master/faas-cli/icon.png?raw=true</iconUrl>
