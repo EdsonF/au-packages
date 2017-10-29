@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>faas-cli</id>
-    <version>0.4.20</version>
+    <version>0.4.20.20171029</version>
     <packageSourceUrl>https://github.com/pkeuter/au-packages</packageSourceUrl>
     <owners>Peter Keuter</owners>
     <title>Official CLI for the OpenFaaS Serverless framework </title>
